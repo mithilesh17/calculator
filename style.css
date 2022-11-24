@@ -1,0 +1,47 @@
+html, body{
+    height: 100%;
+    width: 100%;
+}
+
+.button{
+    padding: 25px;
+    width: 66px;
+    color: blue;
+    margin: 0px 2px;
+    border: 2px solid black;
+    border-radius: 1rem;
+    cursor: pointer;
+    background-color:rgb(255, 227, 192) ;
+}
+
+.row input{
+    margin: 0px;
+    padding: 12px 56px;
+    border: 2px solid black;
+    border-radius: 9px;
+}
+
+.row{
+    margin: 6px 0px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.bg{
+    height: fit-content;
+    width: fit-content;
+    background-color: rgb(58, 67, 52);
+    align-items: center;
+    justify-content: center;
+    margin: 37rem;
+    padding: 1rem;
+    
+}
+.bgc{
+    padding: 1rem;
+    background-color: rgb(210, 63, 30);
+}
+
+
+
